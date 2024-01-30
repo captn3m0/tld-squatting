@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+permalink: /
 ---
 
 There's more than 1000 gTLDs delegated by ICANN. Unfortunately, a lot of owners of various TLDs have

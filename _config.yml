@@ -3,7 +3,6 @@ description: >- #
   List of companies that have squatted on entire TLDs.
 baseurl: "/tld-squatting"
 url: "https://captnemo.in" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  captn3m0
 
 theme: minima
 
@@ -14,8 +13,6 @@ exclude:
   - Gemfile.lock
   - "*.py"
   - vendor
-author:
-  name: Nemo
 sass:
   sass_dir: _scss
   quiet_deps: true
