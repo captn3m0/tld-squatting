@@ -52,4 +52,4 @@ Here's a list of some cool domains that you can't buy today (with what I'd do wi
 1. `much.wow` - RIP Doge
 1. `fuck.you` - no explanation needed
 1. `fuck.you.amazon` - please open registrations on `.zero`, `.you`, `.wow`, `.tushu`, `.tunes`, `.talk`, `.star`, `.smile`, `.spot`, .`silk`, `.secure`, `.save`, `.safe`, `.room`, `.read`, `.prime`, `.pin`, `.pay`, `.now`, `.like`, `.joy`, `.jot`, `.hot`, `.got`, `.free`, `.fire`, `.fast`, `.deal`, `.coupon`, `.circle`, `.call`, `.buy`, `.book`, `.author`, `.amazon`.
-1. `fuck.you.google` - pleas open registrations on `.ads`, `.cal`, `.chrome`, `.docs`, `.drive`, `.eat`, `.hangout`, `.here`, `.map`, `.meet`, `.play`, `.search`.
+1. `fuck.you.google` - please open registrations on `.ads`, `.cal`, `.chrome`, `.docs`, `.drive`, `.eat`, `.hangout`, `.here`, `.map`, `.meet`, `.play`, `.search`.
