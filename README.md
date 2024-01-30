@@ -20,37 +20,7 @@ by the general public - `.book`, `.ads`, `.buy`, `.cal`, `.call`, `.circle`, `.d
 It is such a pity that corporations have decided to squat on these TLDs for several years
 , and not allow them for registrations.
 
-<table>
-	<thead>
-		<tr>
-			<th>TLD</th>
-			<!-- <th>Status</th> -->
-			<th>Owner</th>
-			<th>Type</th>
-			<th>Domain Count</th>
-		</tr>
-	</thead>
-	<tbody>
-
-{% assign DATA = site.data.ntld|sort:'tld'%}
-{% for T in DATA %}
-{% assign count = site.data.domain_count[T.tld] |plus:0%}
-{% if T.status!="GA" and site.data.fakebrands contains T.tld or site.rtypes contains T.type %}
-<tr>
-	<td>
-		{{T.tld}}
-		{% if site.data.punycode contains T.tld %}
-		({{site.data.punycode[T.tld]}})
-		{% endif %}
-	</td>
-	<!-- <td>{{T.status}}</td> -->
-	<td>{{T.owner}}</td>
-	<td>{{T.type}}</td>
-	<td>{{count}}-{{count|times:10}}</td>
-</tr>
-{% endif %}
-{% endfor %}
-</tbody></table>
+{% include table.html %}
 
 
 ## Methodology
