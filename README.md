@@ -11,7 +11,7 @@ Several of the brand gTLDs have been squatted by various corporations as well. T
 of Amazon.com, Inc. owning `.amazon` when several governments applied for it is well known.
 But there are several smaller examples: `.apple` is owned by a technology company and apple
 farmers can't use it (unlike `.kiwi` which can be used by Kiwi farmers.). Similarly `.mango` and `.orange` 
-are also unavailable for registration, as are `.mint`, `.java`, `.ice`, `.food`, `.eat.
+are also unavailable for registration, as are `.mint`, `.java`, `.ice`, `.food`, `.eat`.
 
 **Amazon** and **Google** own a bunch of such TLDs (40% of the below list) which are blocked from registrations
 by the general public - `.book`, `.ads`, `.buy`, `.cal`, `.call`, `.circle`, `.docs`, `.drive`, `.eat`, 
