@@ -20,6 +20,10 @@ by the general public - `.book`, `.ads`, `.buy`, `.cal`, `.call`, `.circle`, `.d
 It is such a pity that corporations have decided to squat on these TLDs for several years
 , and not allow them for registrations.
 
+## Updates
+
+1. **Jan 2024** - `.box` was opened for registrations, with some Web3 nonsense attached.
+
 {% include table.html %}
 
 
