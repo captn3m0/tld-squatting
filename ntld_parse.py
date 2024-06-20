@@ -44,10 +44,8 @@ def parse_row(soup):
         }
 
 if __name__ == "__main__":
-    # Make Request
-    conn = http.client.HTTPSConnection("ntldstats.com")
-    conn.request("GET", "/tld")
-    html = conn.getresponse().read().decode('utf-8')
+    with open('ntld.html', 'r') as f:
+        html = f.read()
     soup = BeautifulSoup(html, "html.parser")
 
     # Parse the response

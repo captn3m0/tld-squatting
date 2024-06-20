@@ -67,7 +67,6 @@ auspost: 100
 author: 1
 auto: 100
 autos: 10000
-avianca: 1
 aws: 100
 axa: 10
 azure: 10
@@ -126,7 +125,7 @@ booking: 1
 bosch: 1
 bostik: 1
 boston: 1000
-bot: 1000
+bot: 10000
 boutique: 10000
 box: 1000
 bradesco: 100
@@ -169,7 +168,6 @@ catholic: 10
 cba: 10
 cbn: 1
 cbre: 1
-cbs: 10
 center: 10000
 ceo: 1000
 cern: 10
@@ -204,9 +202,8 @@ clubmed: 10
 coach: 10000
 codes: 10000
 coffee: 10000
-college: 1000
+college: 10000
 cologne: 1000
-comcast: 1
 commbank: 1
 community: 10000
 company: 10000
@@ -226,7 +223,7 @@ coupon: 1
 coupons: 1000
 courses: 1000
 cpa: 1000
-credit: 10000
+credit: 1000
 creditcard: 1000
 creditunion: 100
 cricket: 1000
@@ -270,7 +267,7 @@ directory: 10000
 discount: 1000
 discover: 100
 dish: 1
-diy: 1
+diy: 100
 dnp: 1
 docs: 1
 doctor: 1000
@@ -289,7 +286,7 @@ dvr: 1
 earth: 10000
 eat: 1
 eco: 1000
-edeka: 10
+edeka: 100
 education: 10000
 email: 100000
 emerck: 10
@@ -323,7 +320,7 @@ farmers: 1
 fashion: 10000
 fast: 1
 fedex: 1
-feedback: 1000
+feedback: 10000
 ferrari: 1
 ferrero: 1
 fidelity: 1
@@ -346,7 +343,7 @@ florist: 1000
 flowers: 1000
 fly: 1
 foo: 1000
-food: 1
+food: 1000
 football: 1000
 ford: 10
 forex: 1000
@@ -411,7 +408,6 @@ green: 1000
 gripe: 1000
 grocery: 1
 group: 100000
-guardian: 1
 gucci: 10
 guge: 1
 guide: 10000
@@ -547,7 +543,7 @@ lgbt: 1000
 lidl: 10
 life: 100000
 lifeinsurance: 1
-lifestyle: 1
+lifestyle: 100
 lighting: 1000
 like: 1
 lilly: 1
@@ -557,7 +553,7 @@ lincoln: 1
 link: 100000
 lipsy: 100
 live: 100000
-living: 1
+living: 100
 llc: 10000
 llp: 1
 loan: 1000
@@ -567,7 +563,7 @@ locus: 10
 lol: 100000
 london: 10000
 lotte: 1
-lotto: 10
+lotto: 100
 love: 10000
 lpl: 1
 lplfinancial: 1
@@ -590,7 +586,7 @@ markets: 1000
 marriott: 10
 marshalls: 1
 mattel: 1
-mba: 10000
+mba: 1000
 mckinsey: 1
 med: 10000
 media: 10000
@@ -702,7 +698,7 @@ phone: 1
 photo: 10000
 photography: 10000
 photos: 10000
-physio: 1000
+physio: 100
 pics: 10000
 pictet: 10
 pictures: 1000
@@ -712,7 +708,7 @@ ping: 1
 pink: 1000
 pioneer: 10
 pizza: 1000
-place: 10000
+place: 1000
 play: 1
 playstation: 1
 plumbing: 1000
@@ -834,7 +830,6 @@ shop: 1000000
 shopping: 1000
 shouji: 1
 show: 10000
-showtime: 1
 silk: 1
 sina: 1
 singles: 1000
@@ -891,9 +886,9 @@ tab: 1
 taipei: 1000
 talk: 1
 taobao: 1
-target: 10
+target: 100
 tatamotors: 10
-tatar: 100
+tatar: 1000
 tattoo: 1000
 tax: 10000
 taxi: 1000
@@ -927,7 +922,7 @@ toshiba: 1
 total: 100
 tours: 10000
 town: 1000
-toyota: 10
+toyota: 100
 toys: 1000
 trade: 10000
 trading: 1000
@@ -949,7 +944,7 @@ uno: 10000
 uol: 10
 ups: 1
 vacations: 1000
-vana: 1
+vana: 10
 vanguard: 10
 vegas: 10000
 ventures: 10000
@@ -961,8 +956,8 @@ video: 10000
 vig: 10
 viking: 1
 villas: 1000
-vin: 10000
-vip: 100000
+vin: 1000
+vip: 1000000
 virgin: 1
 visa: 1
 vision: 10000
@@ -995,7 +990,7 @@ whoswho: 100
 wien: 10000
 wiki: 10000
 williamhill: 10
-win: 100000
+win: 10000
 windows: 10
 wine: 10000
 winners: 1
@@ -1010,7 +1005,6 @@ wtc: 1
 wtf: 10000
 xbox: 10
 xerox: 1
-xfinity: 1
 xihuan: 1
 xin: 10000
 xn--11b4c3d: 1
@@ -1028,7 +1022,7 @@ xn--55qx5d: 10000
 xn--5su34j936bgsg: 1
 xn--5tzm5g: 1000
 xn--6frz82g: 1000
-xn--6qq986b3xl: 10000
+xn--6qq986b3xl: 1000
 xn--80adxhks: 10000
 xn--80aqecdr1a: 1
 xn--80asehdb: 1000
@@ -1053,7 +1047,7 @@ xn--efvy88h: 1
 xn--fct429k: 10
 xn--fhbei: 1
 xn--fiq228c5hs: 10000
-xn--fiq64b: 100
+xn--fiq64b: 10
 xn--fjq720a: 100
 xn--flw351e: 1
 xn--fzys8d69uvgm: 1

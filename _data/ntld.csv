@@ -68,7 +68,6 @@ auspost,NA,brand,Australian Postal Corporation
 author,NA,unrestricted,Amazon
 auto,GA,unrestricted,XYZ.COM LLC
 autos,GA,restricted,XYZ.COM LLC
-avianca,NA,brand,Aerovias del Continente Americano S.A. Avianca
 aws,NA,brand,Amazon
 axa,NA,brand,AXA SA
 azure,NA,brand,Microsoft Corporation
@@ -170,9 +169,8 @@ catholic,NA,brand,Pontificium Consilium de Comunicationibus Socialibus
 cba,NA,brand,COMMONWEALTH BANK OF AUSTRALIA
 cbn,NA,brand,"The Christian Broadcasting Network, Inc."
 cbre,NA,brand,"CBRE, Inc."
-cbs,NA,brand,CBS Domains Inc.
 center,GA,unrestricted,Donuts
-ceo,GA,unrestricted,CEOTLD Pty Ltd (PeopleBrowsr Inc.)
+ceo,GA,unrestricted,XYZ.COM LLC
 cern,NA,brand,"European Organization for Nuclear Research (""CERN"")"
 cfa,NA,brand,CFA Institute
 cfd,GA,restricted,Shortdot SA
@@ -207,7 +205,6 @@ codes,GA,unrestricted,Donuts
 coffee,GA,unrestricted,Donuts
 college,GA,unrestricted,XYZ.COM LLC
 cologne,GA,unrestricted,dotKoeln GmbH
-comcast,NA,brand,"Comcast IP Holdings I, LLC"
 commbank,NA,brand,COMMONWEALTH BANK OF AUSTRALIA
 community,GA,unrestricted,Donuts
 company,GA,unrestricted,Donuts
@@ -271,7 +268,7 @@ directory,GA,unrestricted,Donuts
 discount,GA,unrestricted,Donuts
 discover,NA,brand,Discover Financial Services
 dish,NA,brand,Dish DBS Corporation
-diy,SR,brand,"Lifestyle Domain Holdings, Inc."
+diy,NA,brand,Internet Naming Co.
 dnp,NA,brand,"Dai Nippon Printing Co., Ltd."
 docs,NA,unrestricted,Google
 doctor,GA,unrestricted,Donuts
@@ -347,7 +344,7 @@ florist,GA,unrestricted,Donuts
 flowers,GA,unrestricted,XYZ.COM LLC
 fly,NA,restricted,Google
 foo,GA,unrestricted,Google
-food,SR,brand,"Lifestyle Domain Holdings, Inc."
+food,NA,brand,Internet Naming Co.
 football,GA,unrestricted,Donuts
 ford,NA,brand,Ford Motor Company
 forex,GA,semi-restricted,Donuts
@@ -412,7 +409,6 @@ green,GA,unrestricted,Donuts
 gripe,GA,unrestricted,Donuts
 grocery,NA,brand,"Wal-Mart Stores, Inc."
 group,GA,unrestricted,Donuts
-guardian,NA,brand,The Guardian Life Insurance Company of America
 gucci,NA,brand,Guccio Gucci S.p.a.
 guge,NA,brand,Google
 guide,GA,unrestricted,Donuts
@@ -548,7 +544,7 @@ lgbt,GA,unrestricted,Donuts
 lidl,NA,brand,Schwarz Domains und Services GmbH & Co. KG
 life,GA,unrestricted,Donuts
 lifeinsurance,NA,brand,American Council of Life Insurers
-lifestyle,SR,brand,"Lifestyle Domain Holdings, Inc."
+lifestyle,NA,brand,Internet Naming Co.
 lighting,GA,unrestricted,Donuts
 like,NA,unrestricted,Amazon
 lilly,NA,brand,Eli Lilly and Company
@@ -558,12 +554,12 @@ lincoln,NA,brand,Ford Motor Company
 link,GA,unrestricted,Nova Registry Ltd.
 lipsy,NA,brand,Lipsy Ltd
 live,GA,unrestricted,Donuts
-living,SR,brand,"Lifestyle Domain Holdings, Inc."
+living,NA,brand,Internet Naming Co.
 llc,NA,unrestricted,Donuts
 llp,NA,unrestricted,Intercap Registry Inc.
 loan,GA,unrestricted,Global Registry Services Limited (Domain Venture Partners)
 loans,GA,unrestricted,Donuts
-locker,NA,brand,Dish DBS Corporation
+locker,SR,brand,Orange Domains LLC
 locus,NA,brand,Locus Analytics LLC
 lol,GA,unrestricted,XYZ.COM LLC
 london,GA,unrestricted,Dot London Domains Limited (Minds + Machines Group Limited)
@@ -664,7 +660,7 @@ nrw,GA,semi-restricted,Minds + Machines GmbH (Minds + Machines Group Limited)
 ntt,NA,brand,NIPPON Telegraph and Telephone Corp.
 nyc,GA,semi-restricted,The City of New York by and through the New York City Department of Information Technology & Telecommunications
 obi,NA,brand,OBI Group Holding SE & Co. KGaA
-observer,GA,unrestricted,Donuts
+observer,GA,unrestricted,"Fegistry, LLC"
 office,NA,brand,Microsoft Corporation
 okinawa,GA,unrestricted,"BRregistry, Inc."
 olayan,NA,brand,Crescent Holding GmbH
@@ -747,7 +743,7 @@ radio,GA,unrestricted,European Broadcasting Union (EBU)
 read,NA,unrestricted,Amazon
 realestate,GA,brand,dotRealEstate LLC
 realtor,GA,restricted,Real Estate Domains LLC
-realty,GA,unrestricted,Donuts
+realty,GA,unrestricted,Internet Naming Co.
 recipes,GA,unrestricted,Donuts
 red,GA,unrestricted,Donuts
 redstone,NA,brand,"Redstone Haute Couture Co., Ltd."
@@ -835,7 +831,6 @@ shop,GA,unrestricted,"GMO Registry, Inc."
 shopping,GA,unrestricted,Donuts
 shouji,NA,brand,QIHOO 360 Technology Co. Ltd.
 show,GA,unrestricted,Donuts
-showtime,NA,brand,CBS Domains Inc.
 silk,NA,unrestricted,Amazon
 sina,NA,brand,Sina Corporation
 singles,GA,unrestricted,Donuts
@@ -895,7 +890,7 @@ taobao,NA,brand,Alibaba Group Holding Ltd. (Alibaba Group Holding Ltd.)
 target,NA,brand,"Target Domain Holdings, LLC"
 tatamotors,NA,brand,Tata Motors Ltd
 tatar,GA,unrestricted,"Limited Liability Company ""Coordination Center of Regional Domain of Tatarstan Republic"""
-tattoo,GA,unrestricted,"Top Level Design, LLC"
+tattoo,GA,unrestricted,"Registry Services, LLC"
 tax,GA,unrestricted,Donuts
 taxi,GA,unrestricted,Donuts
 tci,NA,unrestricted,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
@@ -950,7 +945,7 @@ uno,GA,unrestricted,Radix FZC
 uol,NA,brand,UBN INTERNET LTDA.
 ups,NA,brand,"UPS Market Driver, Inc."
 vacations,GA,unrestricted,Donuts
-vana,SR,brand,"Lifestyle Domain Holdings, Inc."
+vana,NA,brand,Internet Naming Co.
 vanguard,NA,brand,"The Vanguard Group, Inc."
 vegas,GA,unrestricted,"Dot Vegas, Inc."
 ventures,GA,unrestricted,Donuts
@@ -1011,7 +1006,6 @@ wtc,NA,brand,"World Trade Centers Association, Inc."
 wtf,GA,unrestricted,Donuts
 xbox,NA,brand,Microsoft Corporation
 xerox,NA,brand,Xerox DNHC LLC
-xfinity,NA,brand,"Comcast IP Holdings I, LLC"
 xihuan,NA,brand,QIHOO 360 Technology Co. Ltd.
 xin,GA,semi-restricted,Elegant Leader Limited (Alibaba Group Holding Ltd.)
 xn--11b4c3d,NA,unrestricted,VeriSign Sarl
