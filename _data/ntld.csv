@@ -94,7 +94,6 @@ bcn,NA,brand,Municipi de Barcelona
 beats,NA,brand,"Beats Electronics, LLC"
 beauty,GA,brand,XYZ.COM LLC
 beer,GA,unrestricted,"Registry Services, LLC"
-bentley,GA,brand,Bentley Motors Limited
 berlin,GA,semi-restricted,dotBERLIN GmbH & Co. KG
 best,GA,unrestricted,BestTLD Pty Ltd
 bestbuy,NA,brand,"BBY Solutions, Inc."
@@ -235,7 +234,6 @@ cruises,GA,unrestricted,Donuts
 cuisinella,NA,brand,SCHMIDT GROUPE S.A.S.
 cymru,GA,unrestricted,Nominet UK
 cyou,GA,unrestricted,Shortdot SA
-dabur,NA,brand,Dabur India Limited
 dad,GA,unrestricted,Google
 dance,GA,unrestricted,Donuts
 data,NA,brand,Dish DBS Corporation
@@ -352,7 +350,7 @@ forsale,GA,unrestricted,Donuts
 forum,GA,unrestricted,"Fegistry, LLC"
 foundation,GA,unrestricted,Public Interest Registry (PIR)
 fox,NA,brand,"FOX Registry, LLC"
-free,NA,unrestricted,Amazon
+free,GA,unrestricted,Amazon
 fresenius,NA,brand,Fresenius Immobilien-Verwaltungs-GmbH
 frl,GA,unrestricted,FRLregistry B.V.
 frogans,NA,unrestricted,OP3FT
@@ -444,7 +442,7 @@ horse,GA,unrestricted,"Registry Services, LLC"
 hospital,GA,unrestricted,Donuts
 host,GA,unrestricted,Radix FZC
 hosting,GA,unrestricted,XYZ.COM LLC
-hot,NA,brand,Amazon
+hot,GA,brand,Amazon
 hotels,NA,brand,Booking.com B.V.
 hotmail,NA,brand,Microsoft Corporation
 house,GA,unrestricted,Donuts
@@ -502,7 +500,6 @@ juniper,NA,brand,"JUNIPER NETWORKS, INC."
 kaufen,GA,unrestricted,Donuts
 kddi,NA,brand,KDDI Corp.
 kerryhotels,NA,brand,Kerry Trading Co. Limited
-kerrylogistics,NA,brand,Kerry Trading Co. Limited
 kerryproperties,NA,brand,Kerry Trading Co. Limited
 kfh,NA,brand,Kuwait Finance House
 kia,NA,brand,KIA Motors Corp.
@@ -523,13 +520,12 @@ kyoto,GA,semi-restricted,Academic Institution: Kyoto Jyoho Gakuen
 lacaixa,NA,brand,CAIXA D'ESTALVIS I PENSIONS DE BARCELONA
 lamborghini,NA,brand,Automobili Lamborghini S.p.A.
 lamer,NA,brand,The Estée Lauder Companies Inc.
-lancaster,NA,brand,LANCASTER
 land,GA,unrestricted,Donuts
 landrover,NA,brand,Jaguar Land Rover Ltd
 lanxess,NA,brand,LANXESS Corporation
 lasalle,NA,brand,Jones Lang LaSalle Incorporated
 lat,GA,unrestricted,XYZ.COM LLC
-latino,NA,semi-restricted,Dish DBS Corporation
+latino,SR,semi-restricted,Dish DBS Corporation
 latrobe,NA,brand,La Trobe University
 law,GA,restricted,"Registry Services, LLC"
 lawyer,GA,semi-restricted,Donuts
@@ -552,14 +548,13 @@ limited,GA,unrestricted,Donuts
 limo,GA,unrestricted,Donuts
 lincoln,NA,brand,Ford Motor Company
 link,GA,unrestricted,Nova Registry Ltd.
-lipsy,NA,brand,Lipsy Ltd
 live,GA,unrestricted,Donuts
 living,NA,brand,Internet Naming Co.
 llc,NA,unrestricted,Donuts
 llp,NA,unrestricted,Intercap Registry Inc.
 loan,GA,unrestricted,Global Registry Services Limited (Domain Venture Partners)
 loans,GA,unrestricted,Donuts
-locker,SR,brand,Orange Domains LLC
+locker,GA,unrestricted,Orange Domains LLC
 locus,NA,brand,Locus Analytics LLC
 lol,GA,unrestricted,XYZ.COM LLC
 london,GA,unrestricted,Dot London Domains Limited (Minds + Machines Group Limited)
@@ -597,6 +592,7 @@ meme,GA,unrestricted,Google
 memorial,GA,unrestricted,Donuts
 men,GA,unrestricted,Global Registry Services Limited (Domain Venture Partners)
 menu,GA,unrestricted,"Wedding TLD2, LLC"
+merck,NA,unknown,"Merck Registry Holdings, Inc."
 merckmsd,NA,brand,"MSD Registry Holdings, Inc."
 miami,GA,unrestricted,"Registry Services, LLC"
 microsoft,NA,brand,Microsoft Corporation
@@ -628,7 +624,6 @@ mtr,NA,brand,MTR Corporation Limited
 music,NA,restricted,DotMusic Limited
 nab,NA,brand,National Australia Bank Limited
 nagoya,GA,unrestricted,"GMO Registry, Inc."
-natura,NA,brand,NATURA COSMÉTICOS S.A.
 navy,GA,semi-restricted,Donuts
 nba,NA,brand,"NBA REGISTRY, LLC"
 nec,NA,brand,NEC Corporation
@@ -653,7 +648,7 @@ nissay,NA,brand,Nippon Life Insurance Company
 nokia,NA,brand,Nokia Corporation
 norton,NA,brand,Symantec Corporation
 now,NA,unrestricted,Amazon
-nowruz,GA,unrestricted,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+nowruz,GA,unrestricted,Emergency Back-End Registry Operator Program - ICANN
 nowtv,NA,brand,Starbucks (HK) Limited
 nra,NA,brand,"NRA Holdings Company, INC."
 nrw,GA,semi-restricted,Minds + Machines GmbH (Minds + Machines Group Limited)
@@ -684,11 +679,11 @@ ovh,GA,unrestricted,OVH SAS
 page,GA,brand,Google
 panasonic,NA,brand,Panasonic Corporation
 paris,GA,semi-restricted,City of Paris
-pars,NA,unrestricted,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+pars,NA,unrestricted,Emergency Back-End Registry Operator Program - ICANN
 partners,GA,unrestricted,Donuts
 parts,GA,unrestricted,Donuts
 party,GA,unrestricted,Global Registry Services Limited (Domain Venture Partners)
-pay,NA,unrestricted,Amazon
+pay,SR,unrestricted,Amazon
 pccw,NA,brand,PCCW Enterprises Limited
 pet,GA,unrestricted,Donuts
 pfizer,NA,brand,Pfizer Inc.
@@ -719,7 +714,6 @@ pohl,NA,brand,Deutsche Vermögensberatung Aktiengesellschaft DVAG (Deutsche Verm
 poker,GA,unrestricted,Donuts
 politie,NA,brand,Politie Nederland
 porn,GA,unrestricted,ICM Registry LLC (Minds + Machines Group Limited)
-pramerica,NA,brand,"Prudential Financial, Inc."
 praxi,NA,brand,Praxi S.p.A.
 press,GA,unrestricted,Radix FZC
 prime,NA,brand,Amazon
@@ -822,9 +816,8 @@ sexy,GA,unrestricted,Internet Naming Co.
 sfr,NA,brand,Societe Francaise du Radiotelephone - SFR
 shangrila,NA,brand,Shangri‐La International Hotel Management Limited
 sharp,NA,brand,Sharp Corporation
-shaw,NA,brand,Shaw Cablesystems G.P.
 shell,NA,brand,Shell Information Technology International Inc
-shia,NA,unrestricted,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+shia,NA,unrestricted,Emergency Back-End Registry Operator Program - ICANN
 shiksha,GA,unrestricted,Donuts
 shoes,GA,unrestricted,Donuts
 shop,GA,unrestricted,"GMO Registry, Inc."
@@ -856,7 +849,7 @@ soy,GA,unrestricted,Google
 spa,NA,unknown,Asia Spa and Wellness Promotion Council Limited
 space,GA,unrestricted,Radix FZC
 sport,GA,semi-restricted,Global Association of International Sports Federations (GAISF)
-spot,NA,brand,Amazon
+spot,GA,brand,Amazon
 srl,GA,semi-restricted,InterNetX Corp.
 stada,NA,brand,STADA Arzneimittel AG
 staples,NA,brand,"Staples, Inc."
@@ -893,7 +886,7 @@ tatar,GA,unrestricted,"Limited Liability Company ""Coordination Center of Region
 tattoo,GA,unrestricted,"Registry Services, LLC"
 tax,GA,unrestricted,Donuts
 taxi,GA,unrestricted,Donuts
-tci,NA,unrestricted,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+tci,NA,unrestricted,Emergency Back-End Registry Operator Program - ICANN
 tdk,NA,brand,TDK Corporation
 team,GA,unrestricted,Donuts
 tech,GA,unrestricted,Radix FZC
@@ -1069,7 +1062,7 @@ xn--mgba7c0bbn0a,NA,brand,Crescent Holding GmbH
 xn--mgbab2bd,GA,unrestricted,CORE Association
 xn--mgbca7dzdo,GA,brand,Abu Dhabi Systems and Information Centre
 xn--mgbi4ecexp,NA,brand,Pontificium Consilium de Comunicationibus Socialibus
-xn--mgbt3dhd,NA,unrestricted,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+xn--mgbt3dhd,NA,unrestricted,Emergency Back-End Registry Operator Program - ICANN
 xn--mk1bu44c,GA,unrestricted,VeriSign Sarl
 xn--mxtq1m,NA,restricted,"Net-Chinese Co., Ltd."
 xn--ngbc5azd,GA,unrestricted,International Domain Registry Pty. Ltd.
@@ -1100,7 +1093,7 @@ xn--xhq521b,GA,unrestricted,"Guangzhou YU Wei Information Technology Co., Ltd."
 xn--zfr164b,NA,brand,China Organizational Name Administration Center
 xyz,GA,unrestricted,XYZ.COM LLC
 yachts,GA,restricted,XYZ.COM LLC
-yahoo,NA,brand,OATH Inc.
+yahoo,NA,brand,Yahoo! Inc.
 yamaxun,NA,unrestricted,Amazon
 yandex,NA,brand,Yandex Europe B.V.
 yodobashi,NA,brand,"YODOBASHI CAMERA CO.,LTD."
